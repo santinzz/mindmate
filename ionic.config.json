@@ -1,0 +1,8 @@
+{
+  "name": "mindmate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "800dc3a9"
+}
